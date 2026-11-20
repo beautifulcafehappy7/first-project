@@ -52,6 +52,18 @@
       "created_at": "2026-11-20T14:08:21.630Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "7892368b-0767-486c-9b9c-5e618659ab3e",
+      "role": "user",
+      "content": "I attached images: .antigravity/uploads/photo-1795183822-1.jpg, .antigravity/uploads/photo-1795183822-2.jpg.\n\nこの写真のどれを押せばパソコンのMACと連携出来る。",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-20T14:10:54.137Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
